@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oRobozinho
+- 👀 I’m interested in games, soccer, music and series
+- 🌱 I’m currently learning node.js
+- 💞️ I’m looking to collaborate on anything if given a chance
+- 📫 How to reach me: guilhermevigano@gmail.com
